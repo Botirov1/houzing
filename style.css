@@ -1,0 +1,301 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.sayt
+{
+    width: 1000px;
+    height: 3600px;
+    border: 2px solid gray;
+    margin: auto;
+}
+.header
+{
+    width: 1000px;
+    height: 64px;
+    border: 1px solid #0D263B;
+    background-color: #0D263B   ;
+    color: white;
+    /* display: flex;
+    justify-content: space-around; */
+}
+.fa-house
+{
+
+   margin-top: 23px;
+   margin-left: 40px;
+}
+.header h2
+{
+    margin-left: 70px;
+    margin-top: -23px;
+
+}
+.header h3
+{
+    margin-left: 400px;
+    margin-top: -23px;
+
+}
+.pro
+{
+    margin-left: 40px;
+}
+.con
+{
+    margin-left: 40px;
+}
+.header button
+{
+    float: right;
+    margin-right: 40px;
+    margin-top: 200px;
+    width: 90px;
+    height: 38px;
+    margin-top: -30px;
+    border-radius: 2px;
+    border: 2px solid white;
+    background-color: #0D263B;
+    color: white;
+}
+.content input
+{
+    width: 631px;
+    height: 34px;
+    margin-top: 28px;
+    border-radius: 2px;
+       border: 1px solid #E6E9EC;
+       outline: #E6E9EC;
+}
+::placeholder
+{
+    font-size: 13px;
+
+}
+.content button
+{
+    width: 130px;
+    height: 34px;
+    border-radius: 2px;
+    border: 2px solid #0061DF;
+    background-color: #0061DF;
+    color: white;
+    font-size: 12px;
+}
+.content h1
+{
+   font-size: 23px; 
+   margin-top: 40px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.content h5
+{ 
+   margin-top: 10px;
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+font-weight: 200;
+}
+.box
+{
+    width: 310px;
+height: 450px;
+border: 1px solid gray;
+margin-top: 50px;
+margin-left: 15px;
+float: left;
+outline: none;
+}
+.box img
+{
+    height: 50%;
+    width: 100%;
+}
+.content2
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content2 h3
+{
+   margin-top: 10px;
+   margin-left: 10px;
+
+}
+.content2 h5
+{
+   margin-top: 5px;
+   margin-left: 10px;
+}
+.fa-bed
+{
+    font-size: 30px;
+    margin-left: 5px;
+}
+.fa-bath
+{
+    font-size: 30px;
+   margin-left: 40px;
+   margin-top: -20px;
+}
+.fa-car
+{
+    font-size: 30px;
+   margin-left: 40px;
+}
+.fa-eraser
+{
+    font-size: 30px;
+   margin-left: 20px;
+}
+.span
+{
+    font-size: 10px;
+}
+.line
+{
+    height: 1px;
+    width: 100%;
+    background-color: gray;
+    margin-top: 15px;
+}
+.content2 p
+{
+    margin-top: 20px;
+    margin-left: 10px;
+    text-decoration: line-through;
+    font-size: 13px;
+}
+.content2 h4
+{
+    
+    margin-left: 10px;
+    margin-top: -20px;
+}
+.but
+{
+    color: white;
+    background-color: red;
+    width: 71px;
+height: 29px;
+border-radius: 3px;
+outline: none;
+margin-left: 200px;
+margin-top: -90px;
+
+}
+
+
+.footer
+{
+    width: 100%;
+    height: 510px;
+    background-color: #0D263B;
+    margin-top: 2600px;
+    outline: none;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+}
+.fa-location-pin
+{
+    float: left;
+   margin-left: 30px;   
+}
+.fa-phone
+{
+    float: left;
+   margin-left: 30px;   
+}
+.fa-envelope
+{
+    float: left;
+   margin-left: 30px;   
+}
+.fa-facebook
+{
+    float: left;
+   margin-left: 30px;   
+}
+.fa-instagram
+{
+    float: left;
+   margin-left: 30px;   
+}
+.fa-twitter
+{
+    float: left;
+   margin-left: 30px;   
+}
+.footer span
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+.footer h3
+{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.box2
+{
+    margin-left: 350px;
+    margin-top: -300px;
+}
+.box2 p
+{
+    margin-top: 50px;
+    margin-left: 30px;
+    font-weight: 200;
+}
+.box3
+{
+    margin-left: 550px;
+    margin-top: -320px;
+}
+.box3 p
+{
+    margin-top: 30px;
+    margin-left: 30px;
+    font-weight: 100;
+}
+.box4
+{
+    margin-left: 780px;
+    margin-top: -330px;
+}
+.box4 p
+{
+    margin-top: 40px;
+    margin-left: 30px;
+    font-weight: 100;
+}
+.footer-line
+{
+    width: 100%;
+    height: 1px;
+    background-color: gray;
+}
+.footer-line i
+{
+    font-size: 25px;
+    margin-left: 30px;
+}
+.footer-line h2
+{
+    margin-left: 350px;
+    font-size: 20px;
+    margin-top: -22px;
+    font-weight: 200;
+}
+.footer-line button
+{
+    width: 70px;
+    height: 64px;
+    border-radius: 2px;
+    border: 2px solid #0061DF;
+    background-color:  #0061DF;
+    color: white;
+    font-size: 12px;
+    margin-left: 900px;
+    margin-top: -90px;
+}
